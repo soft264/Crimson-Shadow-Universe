@@ -1,0 +1,11 @@
+site_name: Crimson Shadow Universe
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: red
+    accent: deep orange
+nav:
+  - Início: index.md
+  - Personagens:
+      - Black Claw: black_claw.md
